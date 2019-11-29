@@ -1,4 +1,4 @@
 // Scripts do Product Landing Page
-$(function(){
-  const $gallery = $('.gallery a').simpleLightbox();
-});
+// $(function(){
+//   const $gallery = $('.gallery a').simpleLightbox();
+// });
