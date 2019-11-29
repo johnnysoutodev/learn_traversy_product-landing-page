@@ -35,7 +35,7 @@ img{
 }
 
 .container{
-  max-width: 110px;
+  max-width: 1100px;
   margin: auto;
   overflow: hidden;
   padding: 0 2rem;
@@ -61,4 +61,12 @@ img{
   display: flex;
   align-content: center;
   justify-content: center;
+}
+
+.navbar .nav a{
+  padding: 0 1rem;
+}
+
+.navbar .nav a:hover{
+  color: #555;
 }
